@@ -29,7 +29,8 @@ Contains Verilog and MIPS Assembly code developed for lab assignments in the Com
 
 - **Single-Cycle MIPS Processor**  
   Implementation of a single-cycle MIPS processor in verilog supporting some R-format and I-format instructions.
-  
+  ✅ Simulated and **implemented on Zynq-7000 FPGA**.
+
 - **Multi-Cycle MIPS Processor**  
   Datapath and controller implementation of a multi-cycle MIPS processor in Verilog.
 
