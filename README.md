@@ -10,7 +10,6 @@
 ## 🛠️ Tools and Technologies
 
 - **ModelSim**: For simulation and functional verification of Verilog designs.
-- **Xilinx Vivado**: For synthesis and implementation of Verilog modules.
 - **Verilog**: Hardware description language for digital logic design.
 - **MIPS Assembly**: For low-level programming and processor testing.
 - **MPLAB X IDE**: For PIC32 microcontroller programming and debugging.
