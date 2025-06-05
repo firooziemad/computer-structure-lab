@@ -31,7 +31,7 @@ Contains Verilog and MIPS Assembly code developed for lab assignments in the Com
   Implementation of a single-cycle MIPS processor in verilog supporting some R-format and I-format instructions.
   
 - **Multi-Cycle MIPS Processor**  
-  Datapath and controller implementation of a multi-cycle MIPS processor in Verilog, tested with assembly programs.
+  Datapath and controller implementation of a multi-cycle MIPS processor in Verilog.
 
 - **PIC32 Microcontroller Experiments (MIPS Assembly)**  
   - Switch input and LED output with debouncing  
