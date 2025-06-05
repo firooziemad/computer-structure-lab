@@ -25,10 +25,14 @@ Contains Verilog and MIPS Assembly code developed for lab assignments in the Com
   Hardware implementation of an 8-bit serial multiplier using Verilog.
 
 - **IEEE-754 Floating-Point Adder**  
-  Single-precision floating-point adder based on IEEE-754 standard using Verilog .
+  Single-precision floating-point adder based on IEEE-754 standard using Verilog.
+  
+  ✅ Simulated and **implemented on Zynq-7000 FPGA**.
+
 
 - **Single-Cycle MIPS Processor**  
   Implementation of a single-cycle MIPS processor in verilog supporting some R-format and I-format instructions.
+  
   ✅ Simulated and **implemented on Zynq-7000 FPGA**.
 
 - **Multi-Cycle MIPS Processor**  
