@@ -22,25 +22,22 @@ Contains Verilog and MIPS Assembly code developed for lab assignments in the Com
 ## 🔬 Lab Descriptions
 
 - **8-bit Serial Multiplier**  
-  Hardware implementation of an 8-bit serial multiplier using Verilog. Simulated to verify correctness.
+  Hardware implementation of an 8-bit serial multiplier using Verilog.
 
 - **IEEE-754 Floating-Point Adder**  
-  Single-precision floating-point adder based on IEEE-754 standard, verified using ModelSim simulation.
+  Single-precision floating-point adder based on IEEE-754 standard using Verilog .
 
 - **Single-Cycle MIPS Processor**  
-  Implementation of a single-cycle MIPS processor supporting:  
-  - R-format instructions: `add`, `sub`, `addu`, `subu`, `and`, `or`, `xor`, `nor`, `slt`, `sltu`  
-  - I-format instructions: `addi`, `addiu`, `slti`, `sltiu`, `andi`, `ori`, `xori`, `lui`, `beq`, `bne`, `lw`, `sw`
-
+  Implementation of a single-cycle MIPS processor in verilog supporting some R-format and I-format instructions.
+  
 - **Multi-Cycle MIPS Processor**  
   Datapath and controller implementation of a multi-cycle MIPS processor in Verilog, tested with assembly programs.
 
-- **PIC32 Microcontroller Experiments**  
-  Introduction to PIC32 MX110F016B, including:  
+- **PIC32 Microcontroller Experiments (MIPS Assembly)**  
   - Switch input and LED output with debouncing  
   - 7-segment display control  
-  - Matrix keypad interfacing  
-  - Interrupt handling (bonus)  
+  - Matrix keypad interfacing
+  - Interrupt handling
   - LCD initialization and a simple calculator implementation
 
 ## 👨‍💻 Supervisor
